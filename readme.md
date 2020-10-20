@@ -2,6 +2,7 @@
 
 > Imagemin plugin for OptiPNG
 
+> use https://npm.taobao.org/mirrors/optipng-bin/ as downlaod source
 
 ## Install
 
